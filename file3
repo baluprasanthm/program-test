@@ -1,0 +1,142 @@
+Balu Prasanth M
+ 
+ Email:baluprashanthmandarala@gmail.com
+ Contact no: 9676076810
+
+Professional Experience                                                                                                                                      
+
+	 Having overall 4.6 years of IT work experience with around 2+ years of experience on Azure Cloud DevOps Engineer in IAAS, PAAS and SAAS services.
+	Working as Cloud engineer on Microsoft Azure, involved in configuring virtual machines, storage accounts (account types, replication services, storage types, access tiers), resource groups along with setting up policies and using Formulas and Custom Images to deploy the network.
+	Azure DevOps Build & Deployment automation, Continuous Integration & Continuous Delivery in On-Premises to Azure Environment. GIT branching and merging. Install and configure multiple private build agents. Manage team project collections, manage security using Azure Active Directory Group and configure team projects with CI, CD and Test.
+	Experience in DevOps tools like Jira, Git, VSTS, TFS, Octopus and Jenkins.
+	Exposed Virtual machines and cloud services in the VNet to the Internet using Azure External Load Balancer. 
+	Worked on Traffic Manager to re-direct the traffic to one region to another region
+	Worked on Data Migration on-premises to cloud to decommission the VM’s to reduce the cost.
+	Working Remote login to Virtual Machines to troubleshoot, monitor and deploy applications.
+	Managing Windows servers, troubleshooting IP issues and working with different support teams.
+	Using Power shell to write, debug scripts to automate the processes and do migration of VM, involving copying and creating of VHDS.
+	Develop PowerShell scripts and ARM templates to automate the provisioning and deployment process
+	Configuration of Microsoft DevTest Labs to migrate the virtual machines from one subscription to another subscription.
+	Managing day to day activity of the cloud environment, supporting development teams with their requirements.
+	Managing the ticketing system of Rackspace to resolve issues on the cloud environment with the cloud management third party team.
+	Developing and managing custom features in Visual Studio based on specifications and technical designs to work on Visual Studio Team Confidential to a backlog for the daily activities.
+	Having good experience on manual Build and Deployment Tool VSTS, and Automation tool AzureDevOps (previously known as VSO) Continuous Integration and Continuous Delivery in on-premises and Azure Environment.  
+	Hands on experience with install, configure and manage the AD, DNS and FILE servers.
+	Managed environments DEV, QA, UAT and PROD for various releases and designed instance.
+	Troubleshoot and identify performance, connectivity and other issues for the applications hosted in Azure platform
+	Using Azure virtual networks, VPN and express route to establish connectivity between on premise and cloud.
+	Good experience in migration of on-premises virtual machines to Azure, classic portal to ARM Portal.
+
+Technical Skills                                                                                                                                          
+
+Cloud Platform		: Microsoft Azure Cloud
+DevOps			: VSTS, TFS, Jira, Git, octopus, Jenkins, and Azure DevOps
+Tools	                                   : PowerShell, Visual Studio, Backup and Recovery Tools, Git Bash,           
+                                               Tortoise Git and ARM Templates, Azure Storage. 
+
+Cloud software tools        	: App Insights, Microsoft Storage explorer, AZ copy.
+Database			: My SQL, SQL Server.
+Server Operating Systems	: Windows Server 2003, 2008, 2012 R2
+Client Operating Systems 	: Windows XP, Win 7, and Win 10.
+
+Work Experience                                                                                                                                          
+          
+	Working in Accenture Solutions Pvt Ltd as a Devops Engineer from June 2015 to Till Date.
+Projects Details                                                                                                                                         
+
+Project #3
+
+Project	                             :   Power Booster
+Client			     :   Maerskline
+Role       		     :   Devops Engineer
+
+Description:
+Power Booster is an interactive interface for its end-user for effective access and sharing of relevant business information within Power Plants. The Power Booster provides business management with global and local energy market information and allows the end-users to customize the service based on individual needs and preferences.
+Power Booster is driven by identified business information needs, aiming at enhanced insights regarding the local energy markets. It is intended at supporting the active market development strategy and identification of new market and customer project opportunities.
+Power Booster’s key conceptual service areas are:
+•	Discovery services
+•	Advanced data services
+•	Content services, such as Competitor and Geography profile pages, Presentations page and News page.
+•	Support tools for end-users and administrators
+•	Gas Project Screener to allow end users simulate plant and other related data with various parameters
+
+Roles & Responsibilities:
+	Creating Projects, Branching, Merging, and Access allocation to Users as per organization rules and standards.
+	Experience in working with Azure ARM templates. 
+	Experience on Creating VM’s and configuring networks using Azure.
+	Good Working Knowledge on deploying Web applications using Azure.
+	Deploying Code on Azure cloud environment.
+	Experience in Azure Administration in Creating, managing and deploying Web applications using Microsoft Azure.
+	Created the Continuous Integration and Continuous Deployments using VSTS tool.
+	Assigned Roles and Policies to Users, Security Groups by using Identity and Access Management (IAM).
+	Create policies for projects according to client requirements.
+	Installing, configuring and maintaining Continuous Integration, Automation and Configuration Management tools.
+	Source Code Control & Repository Administration with merging and branching to develop new features in the existing code using GIT.
+	Create AMI's and Create volume from snapshot with more space.
+	Analyzing traffic across load balancers using Azure Traffic Manager, Network Security Groups White listing.
+	Working for Azure Application Insights Team. Deploying and hosting websites on Azure.
+	Involved in VM deployments using Azure Portal, ARM Templates and PowerShell commands.
+	Using PowerShell Scripting to automate the services that include creating, configuring managing, updating the resources and for migration.
+	Created ARM templates to reuse similar deployment with some standard configurations and naming convention.
+	Created users in Azure AD from Portal as well as using Power Shell commands and involved in migration of on-premises to Azure.
+	Created images stored in the Docker container and uploaded to Docker hub.
+	Knowledge of industry tools including Git, GitHub and JIRA.
+	Creation of Azure NIC, Azure Virtual networks, Azure VM’s and provide access to users
+	Involved in Migration of Azure VM’S 
+	Adding addition disks to Azure VM upon receiving request
+	Provide read access of Azure subscription to users upon request/approvals from higher management
+	Proactively resolve the error message with root cause analysis and following it up till the issue is closed.
+
+Project #2
+
+Project	                             :   CVS DW
+Client			     :   CVS,U.S.A
+Role       		     :   Devops Engineer
+
+Description:
+CVS/pharmacy is the leading pharmacy and drug store in the United States, with over 5400 retail stores. Overall ETL system flow for the CVS RDW Migration Project is: CVS migration occurs in two phases. The first phase is the Web methods  to (O2T) migration of the CVS history data.  The second phase is the conversion of all CVS ETL processes to support all ongoing incremental data loads.
+
+Roles &Responsibilities:
+	Automated Continuous Integration builds, nightly builds, deployments and unit tests across multiple different environments (DEV, QA, Training, Production) each constituting different types of servers (DB, App, Web) and different number of servers of each type (for load balancing and such) using VSTS Build, PowerShell, and MS Build, MS Deploy.
+	As a member of Release Engineering group, redefined processes and implemented tools for software builds, patch creation, source control, and release tracking and reporting.
+	Worked closely with QA Teams, Business Teams, and DBA team and Product Operations teams to identify QA and UAT cycles release schedule to non-prod and prod environments.
+	Identified and logged defects in VSTS and interacted with developers to priorities the issues.
+	Ownership for Azure SQL server DB deployment & managed the continues integration & continues deployment.
+	Created Build definition and  Release definition for Continuous Integration and Continuous Deployment.
+	Created dashboards in VSTS for CI/Pipelines, Work items and bugs.
+	Resolved Merge Conflicts, configured triggers and queued new builds within the release pipeline.
+	Monitored and tracked deployments.
+	Wrote PowerShell scripting for task automation and to schedule tasks.
+	Managed new deployments and handled upgrades of clusters in Service Fabric to make sure the application is reliable.
+
+Project#1:
+
+Project Title                 : Group Benefits
+Client                  	 : Hartford CT, USA	                                
+Role                     	 : Build and Release Engineer
+Environment		 : SVN, Maven,Apache, Tomcat
+
+Description:
+“Group Benefits” is an insurance project dealing with variety of Medical and insurance benefits applied on group policies. It handles both direct and Group Redirect policies.
+
+Roles &Responsibilities:
+	As a Release Manager below are my responsibilities performed in my project
+	Organize weekly release meetings with multiple development teams to identify the releases ahead and bring awareness on milestones as per release calendar.
+	Co-ordinate 84 applications parallel releases (Scheduled/Emergency/Weekly) for deploying their code into production servers.
+	Accountable for on-time delivery of all Release process outputs as defined in the Release Policy, processes and procedures
+	Assess the release complexity for all applications in the Group Benefits Space and perform all the required release paper work which gets tracked as CRQs in Remedy Tool and SharePoint on time.
+	Create and Maintain Subversion Branching, Merging and Tagging across each production releases.
+	Perform daily development, QA builds and deployments using Continuous Integration.
+	Apply Release specification techniques and contribute to finalizing standard guidelines in applications release.
+	Apply Release specification techniques and contribute to finalizing standard guidelines in applications release.
+	Co-ordinate with respective teams to resolve all the types of INCIDENTS raised by customers using Remedy Tool.
+	Support weekends during implementation of releases
+	Convey Release information in a variety of communication methods such as presentations, training, meetings and knowledge sessions.
+	Conduct Post Release Reviews, Implementation Reviews to identify improvements to processes and procedures over time.
+	Handle SOX Audits effectively for the releases performed in past.
+
+                             
+Educational Qualification                                                                                                                                      
+
+	M.B.A from JNTU University Kakinada.
+
