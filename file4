@@ -1,0 +1,117 @@
+Balu Prasanth M
+ 
+ Email: baluprasanth10@gmail.com
+ Contact no: 8095208810
+Professional Experience                                                                                                                                      
+
+	5 years of experience in DevOps in the areas of cloud administration, Continuous Integration and Continuous Delivery, Monitoring, software Configuration management, build automation with artifact management, code quality integration with CI process & Weblogic Administration for Production, Pre-production and Development environments.
+	Configure Elastic Cloud Compute (EC2) instances of Linux and Windows & Configure Elastic Load Balancers (ELB) for distributing incoming application traffic across multiple EC2 instances.
+	Extensive experienced in Installation, Configuration, Migration, Administration and Troubleshooting of Apache Tomcat, Apache and web server plug-in on different flavors. 
+	Experienced in various source code management activities using tools like GIT involving branching and merging strategies, conflict resolution and safe repository backup and restore approaches by using the schedules.
+	Develop continuous delivery product release pipelines, using tools such as Jenkins, and enable release and operations automation using Ansible.
+	Automated product release workflow by closely working with various development teams.
+	Created Jenkins workflow to automate the environment readiness process across different environments.
+	Expertise in build tools like MAVEN for building deployable artifacts such as war and ear from source code.
+	Experience in using Tomcat and Apache web servers for deployments and for hosting tools.
+	Involved in the functional usage and deployment of applications in Apache Tomcat Server.
+	Following the ITIL process for Ticket handling and problem ticket analysis and also Root Cause analysis for major incidents.
+	Good understanding of Docker, AWS (Cloud Formation), Ansible.
+
+Technical Skills                                                                                                                                          
+
+Version Control Systems	GIT
+Build tools	Maven
+CI Server [Continuous Integration]	Jenkins
+Application Servers	Apache Tomcat
+Unit testing Tool	JUnit.
+Scripting Languages	UNIX Shell Scripting
+Operating System	Windows family, UNIX.
+Cloud and Configuration management	AWS and Ansible
+Work Experience                                                                                                                                          
+          
+	 Worked as a Sr.System Engineer in APEPDCL, Visakhapatnam from May 2016 to March 2019.
+	Worked as a Software engineer in Srujana Technologies, Hyderabad from Feb 2014 to April 2016.
+ Projects Details                                                                                                                                         
+
+Project #3
+
+Project	                             :   Service Peoject (Mee-Seva, Meters)
+Client			     :   APEPDCL
+Role       		     :   Sr.System Engineer
+Tool/Technologies	     :   Git, Jenkins, Maven, Tomcat, AWS cloud, Dockers
+Duration		     :   Sep 2016 to March 2019
+
+
+Roles & Responsibilities:
+	Responsible for Environment Management and deployment automation, provision the infrastructure of windows and Linux environments. 
+	In addition, developing and supporting day to day release builds and deployments, improving existing infrastructure and services with upgrades, and consolidate existing tools. 
+	Manage and configure AWS services as per the business needs (ELB, EC2, S3, IAM, and VPC).
+	Creating snapshots, AMIs, Elastic IPs and managing EBS (Elastic Block Storage) volumes.
+	Configure Horizontal scaling: Scale in and out using Auto Scaling, add and remove instance as needed to handle the growing workload.
+	Designed CI/CD processes in the context of a Jenkins orchestration, including the usage of automated build, test/QA and deployment tools.
+	Configure jobs and pipelines using Jenkins. Troubleshoot problems arising from Build failures and Test failures.
+	Implementation of new build and deploy tools & Process to make smooth pipeline transition from Dev to Production.
+	Specialized in automating tasks and process through scripts, implementing branching models.
+	Managed yum/apt build system and package repositories.
+	Build, Configure, Manage and Coordinate all Build and Release Management activities.
+	Developing build and deploy tools to make smooth pipeline transition from Dev to Production.
+	Upgrading Jenkins and deploy on Tomcat on the existing applications. 
+	Implemented parallel deployment successfully on the Jenkins.
+	Deployment of the Business processes by creating JAR, WAR and EAR files to WebLogic Application Server.. 
+	Built, configured and supported Application team environments.
+	Experience Installing, configuring and upgrading Web logic, Tomcat & web sphere application server.
+	Implemented & maintained the branching and build/release strategies utilizing GIT.
+	Used Maven as a build tools on java projects for the development of build artifacts on the source code.
+	Establishing standards for build artifact management and build configuration. Documentation of change management and best practices. 
+	Coordination of code merges and deployments with DEV and QA teams. Collaboration with Development, QA and other teams to ensure a smooth transition of deliverables through proper release channels.
+
+Project #2
+
+Project	                             :   APEPDCL
+Client			     :   APEPCL
+Role       		     :   System Engineer
+Tool/Technologies	     :   Linux, RedHatEnterprise Edition 6.4
+Duration		      :   May 2016 to Aug 2016
+
+
+Roles &Responsibilities:
+	Maintaining the large production databases two node & three node Cluster environments.
+	Proactively monitoring the all the production databases in two nodes (2 node & 3 node RAC).
+	Successfully configured the oracle 11g grid infrastructure RAC on Linux with ASM storage.
+	Handling the Oracle Cluster ware using the SRVCTL and CRSCTL tool.
+	Performing logical backups using Data pump.
+	Daily check the RMAN backup and logical level (schema level) backups.
+	Checking the OCR, VOTING file backups.
+	Scheduled the jobs using Crontab. 
+	Monitoring the ASM instances on the multiple nodes.
+	Taking backups of OCR and VOTING Disk files using cluster utilities.
+	Taking the support from oracle support team for critical issues.
+	Proactively monitors the OEM tool and inform the developer’s team for their application related issues.
+.
+Project #1
+
+Project	                             :   Group Benefits
+Client			     :   Srujana Technologies
+Role       		     :   Software Engineer
+Tool/Technologies	     :  Git,Maven, Apache, Tomcat
+Duration		      :   Feb 2014 to March 2016
+
+Roles &Responsibilities:
+	Organize weekly release meetings with multiple development teams to identify the releases ahead and bring awareness on milestones as per release calendar.
+	Co-ordinate 84 applications parallel releases (Scheduled/Emergency/Weekly) for deploying their code into production servers.
+	Accountable for on-time delivery of all Release process outputs as defined in the Release Policy, processes and procedures
+	Assess the release complexity for all applications in the Group Benefits Space and perform all the required release paper work which gets tracked as CRQs in Remedy Tool and SharePoint on time.
+	Create and Maintain Git Branching, Merging and Tagging across each production releases.
+	Perform daily development, QA builds and deployments using Continuous Integration.
+	Apply Release specification techniques and contribute to finalizing standard guidelines in applications release.
+	Apply Release specification techniques and contribute to finalizing standard guidelines in applications release.
+	Co-ordinate with respective teams to resolve all the types of INCIDENTS raised by customers using Remedy Tool.
+	Support weekends during implementation of releases
+	Convey Release information in a variety of communication methods such as presentations, training, meetings and knowledge sessions.
+	Conduct Post Release Reviews, Implementation Reviews to identify improvements to processes and procedures over time.
+
+Educational Qualification                                                                                                                                      
+
+	M.B.A from JNTU University Kakinada.
+
+
